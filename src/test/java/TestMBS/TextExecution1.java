@@ -13,6 +13,7 @@ public class TextExecution1 {
         // Inicialización del Driver
         WebDriver driver;
 
+        // System.setProperty("webdriver.chrome.driver", "D:\\Mr. Blue Sky\\Automatización\\Drivers\\chromedriver.exe");
         System.setProperty("webdriver.chrome.driver", "/Volumes/Disco local 1/Mr. Blue Sky/Automatización/Drivers/chromedriver");
         driver = new ChromeDriver();
 
