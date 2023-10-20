@@ -10,7 +10,7 @@ public class TextExecution1 {
 
         Page_DemoQA_Text_Box PagHome =  new Page_DemoQA_Text_Box();
 
-        // Inicializacion del Driver
+        // Inicialización del Driver
         WebDriver driver;
 
         System.setProperty("webdriver.chrome.driver", "/Volumes/Disco local 1/Mr. Blue Sky/Automatización/Drivers/chromedriver");
